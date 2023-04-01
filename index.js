@@ -34,7 +34,6 @@ function hasTargetSum(array, target) {
 
 /*
   Add written explanation of your solution here
-
 The function takes in an array of integers and a target value as parameters. It creates 
 an empty object to store the numbers in the array as keys. It then loops through each 
 number in the array and subtracts it from the target value to get the difference. It 
